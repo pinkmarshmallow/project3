@@ -2,6 +2,8 @@ html {
     background: #000000;
 }
 
+
+
 img{
     width: 100%;
     height: 100%;
@@ -13,6 +15,123 @@ div {
   padding-bottom: 0px;
   padding-left: 0px;
 }
+
+.parallax {
+  /* The image used */
+  background-image: url("images/a_1.png");
+
+  /* Set a specific height */
+  min-height: 1024px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+
+}
+
+.parallax1 {
+  background-image: url("images/a_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+.parallax2 {
+  background-image: url("images/a_2_a.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+.parallax3 {
+  background-image: url("images/a_3_a.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+
+
+
+
+.parallax4 {
+  background-image: url("images/b_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax5 {
+  background-image: url("images/b_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax6 {
+  background-image: url("images/b_2_b.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax7 {
+  background-image: url("images/b_3_b.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax8 {
+  background-image: url("images/b_4_b.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax9 {
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+
+
+
 
 .parallax10 {
   background-image: url("images/1.png");
@@ -59,3 +178,356 @@ div {
   background-size: cover;
   background-color: transparent;
 }
+
+
+.parallax15 {
+  background-image: url("images/c_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax16 {
+  background-image: url("images/c_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax17 {
+  background-image: url("images/c_2_c.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax18 {
+  background-image: url("images/c_3_c.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+
+
+
+
+
+
+.parallax19 {
+  background-image: url("images/d_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax20 {
+  background-image: url("images/d_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax21 {
+  background-image: url("images/d_2_d.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax22 {
+  background-image: url("images/d_3_d.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax23 {
+  background-image: url("images/d_4_d.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+
+
+
+
+.parallax24 {
+  background-image: url("images/f_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax25 {
+  background-image: url("images/f_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax26 {
+  background-image: url("images/f_2_f.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax27 {
+  background-image: url("images/f_3_f.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+.parallax28 {
+  background-image: url("images/g_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax29 {
+  background-image: url("images/g_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+.parallax30 {
+  background-image: url("images/g_3_g.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax47 {
+  background-image: url("images/g_2_g.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+
+.parallax31 {
+  background-image: url("images/f_4_f.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax32 {
+  background-image: url("images/aa.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax33 {
+  background-image: url("images/a_4_a.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax34 {
+  background-image: url("images/h_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax35 {
+  background-image: url("images/h_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax36 {
+  background-image: url("images/h_2_h.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax37 {
+  background-image: url("images/h_3_h.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+.parallax38 {
+  background-image: url("images/i_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax39 {
+  background-image: url("images/i_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax40 {
+  background-image: url("images/i_2_i.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax41 {
+  background-image: url("images/i_3_i.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax42 {
+  background-image: url("images/i_4_i.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax43 {
+  background-image: url("images/j_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax44 {
+  background-image: url("images/j_1.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax45 {
+  background-image: url("images/j_2_j.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
+.parallax46 {
+  background-image: url("images/j_3_j.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+.parallax50 {
+  background-image: url("images/.png");
+  min-height: 1024px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+}
+
+
